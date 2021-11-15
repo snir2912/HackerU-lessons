@@ -3,8 +3,10 @@
 ## git checkout -b (OPTIONAL PARAM TO CREATE A NEW BRANCH) BRANCH_NAME
 ## git merge BRANCH_NAME (will merge the branch with the current branch)
 
+
 # REST
 ## Rest is Representational State Transfer
+
 
 # Requests type:
 # GET, POST, PUT, PATCH, DELETE.
